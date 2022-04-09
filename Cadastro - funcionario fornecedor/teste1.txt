@@ -1,0 +1,21 @@
+2
+Michele
+1197823899
+Rua Orion n-149
+100
+3
+Martins
+4692728483
+Rua Raul Seixas n-234
+300
+4
+Emily
+4891134245
+Rua Klipt n-800
+200
+1
+Renato
+1124253465
+Rua Leon n356
+400
+0

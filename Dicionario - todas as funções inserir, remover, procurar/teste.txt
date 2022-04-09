@@ -1,0 +1,12 @@
+1
+dict0.txt
+1
+dict1.txt
+1
+dict3.txt
+2
+3
+aaaa
+6
+2
+0
