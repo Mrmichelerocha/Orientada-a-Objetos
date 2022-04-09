@@ -4,12 +4,16 @@ em C++
 minha orientação para leitura dessas paginas é
 <br>
 comece com os dicionários
-leitura de arquivo
-eliminação de duplicatas
+<br>
+leitura de arquivo,
+eliminação de duplicatas,
+<br>
 depois veja o dicionário completo
 
+<br><br>
 entre em cadastros veja os cadastros
 
+<br><br>
 por ultimo vaja as formas gematricas essa foi a que eu mais gostei de fazer e tá
 bem organizadinha
 
