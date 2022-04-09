@@ -2,6 +2,7 @@
 em C++
 
 minha orientação para leitura dessas paginas é
+<br>
 comece com os dicionários
 leitura de arquivo
 eliminação de duplicatas
