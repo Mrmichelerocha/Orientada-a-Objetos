@@ -10,10 +10,10 @@ eliminação de duplicatas,
 <br>
 depois veja o dicionário completo
 
-<br><br>
+<br>
 entre em cadastros veja os cadastros
 
-<br><br>
+<br>
 por ultimo vaja as formas gematricas essa foi a que eu mais gostei de fazer e tá
 bem organizadinha
 
